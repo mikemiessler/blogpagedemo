@@ -1,0 +1,46 @@
+p {
+ font-family: 'source sans pro';
+font-size: 15px;
+
+}
+
+.Date{
+font-family: 'Source Sans Pro';
+font-size: 18px;
+color: #6ae86f;
+letter-spacing: 0.75rem;
+text-transform: uppercase;
+margin-top: 5%;
+
+}
+
+.Title{
+font-family: 'Source Sans Pro';
+font-size: 60px;
+
+}
+
+.quote{
+ 	border-left: 5px solid #bdc3c7;
+ 	padding: 5px;
+ 	font-size: 13px;
+ 	font-style: italic;
+}
+
+body{
+	border: 13px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px; /* sets max size of content*/
+	width: 60%; /*make content 60% but maximum 700px*/
+	margin: 50px auto;  /*centers content of the entire body*/
+}
+
+
+hr {
+	 border : 0;
+ 	 height: 1px; 
+  	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); 
+	width: 50%;
+	padding: auto;
+
+}
